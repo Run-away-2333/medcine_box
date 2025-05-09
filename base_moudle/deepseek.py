@@ -2,7 +2,7 @@
 
 from openai import OpenAI
 
-client = OpenAI(api_key="sk-032ad2d61bc74cb6befb885a0cff5570", base_url="https://api.deepseek.com")
+client = OpenAI(api_key="*****", base_url="https://api.deepseek.com")
 
 with open('LLM_txt/MedicineAndDoctor.txt', 'r', encoding='utf-8') as config:
     person = config.read()
