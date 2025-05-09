@@ -1,0 +1,48 @@
+<RCC>
+  <qresource prefix="windows_img">
+    <file>resource_dir/src_img/jump_to_face.png</file>
+    <file>resource_dir/src_img/setting.png</file>
+    <file>resource_dir/src_img/37-animation.png</file>
+    <file>resource_dir/src_img/manage_fix_button.png</file>
+    <file>resource_dir/src_img/manage_fix_float.png</file>
+    <file>resource_dir/src_img/medicine_icon_2.png</file>
+    <file>resource_dir/src_img/identify.png</file>
+    <file>resource_dir/src_img/medicine_comic_1.png</file>
+    <file>resource_dir/src_img/humidity_icon.png</file>
+    <file>resource_dir/src_img/temperature_icon.png</file>
+    <file>resource_dir/src_img/save_button float.png</file>
+    <file>resource_dir/src_img/save_button.png</file>
+    <file>resource_dir/src_img/next_button float.png</file>
+    <file>resource_dir/src_img/next_button.png</file>
+    <file>resource_dir/src_img/face_button.png</file>
+    <file>resource_dir/src_img/face_float.png</file>
+    <file>resource_dir/src_img/face_rec_icon.png</file>
+    <file>resource_dir/src_img/fingerprint_button.png</file>
+    <file>resource_dir/src_img/fingerprint_float.png</file>
+    <file>resource_dir/src_img/fingerprint_rec_icon.png</file>
+    <file>resource_dir/src_img/stack_register_button.png</file>
+    <file>resource_dir/src_img/stack_register_clicked.png</file>
+    <file>resource_dir/src_img/Miss_button.png</file>
+    <file>resource_dir/src_img/Mr_button.png</file>
+    <file>resource_dir/src_img/name_frame.png</file>
+    <file>resource_dir/src_img/hand_up_button.png</file>
+    <file>resource_dir/src_img/telephone_frame.png</file>
+    <file>resource_dir/src_img/hand_up_float.png</file>
+    <file>resource_dir/src_img/quit_button.png</file>
+    <file>resource_dir/src_img/quit_float.png</file>
+    <file>resource_dir/src_img/scale_button.png</file>
+    <file>resource_dir/src_img/scale_float.png</file>
+    <file>resource_dir/src_img/background_img.png</file>
+    <file>resource_dir/src_img/manage_float.png</file>
+    <file>resource_dir/src_img/medicine_box_float.png</file>
+    <file>resource_dir/src_img/message_float.png</file>
+    <file>resource_dir/src_img/setting_float.png</file>
+    <file>resource_dir/src_img/register_float.png</file>
+    <file>resource_dir/src_img/manage_button.png</file>
+    <file>resource_dir/src_img/medicine_box_button.png</file>
+    <file>resource_dir/src_img/message_button.png</file>
+    <file>resource_dir/src_img/register_button.png</file>
+    <file>resource_dir/src_img/setting_button.png</file>
+    <file>resource_dir/src_img/bottom_background.png</file>
+  </qresource>
+</RCC>
